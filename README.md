@@ -16,3 +16,6 @@ Monitrator : Doxrk-tool
     bash install.sh
 
     
+# Note
+
+Doxrk is google dorking script from Monitrator 
