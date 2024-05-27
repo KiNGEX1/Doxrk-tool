@@ -13,7 +13,7 @@ Monitrator : Doxrk-tool
 ###       
     git clone https://github.com/KiNGEX1/Doxrk-tool
 ### 
-    bash install.sh
+    unzip Doxrk-tool
 
     
 # Note
